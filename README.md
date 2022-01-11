@@ -16,7 +16,7 @@ pip install -r requirements.txt
 .env example:
 
 ```
-token=token=c011g67b5df7470360ab5a34ft462d107da143a9
+TOKEN=c011g67b5df7470360ab5a34ft462d107da143a9
 ```
 ### How to get
 
