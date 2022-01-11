@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ### Environment variables.
 
-- token
+- TOKEN
 
 .env example:
 
